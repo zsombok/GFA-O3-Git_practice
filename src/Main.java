@@ -6,7 +6,7 @@ public class Main {
     }
 
     private static void greet() {
-        System.out.println("Zsombok Dávid");
+        System.out.println("Greetings!");
     }
 
 }
