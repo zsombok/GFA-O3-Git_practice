@@ -1,7 +1,6 @@
 public class Horoscope {
-
-    public static void future(String zodiac, String month) {
+    public static void future(String zodiac) {
+        zodiac="Rat";
         System.out.println(zodiac);
-        System.out.println(month);
     }
 }
