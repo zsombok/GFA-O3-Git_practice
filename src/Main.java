@@ -6,7 +6,7 @@ public class Main {
     }
 
     private static void greet(String name) {
-        System.out.println(name);
+        System.out.println("Greetings for the " + name);
     }
 
 }
