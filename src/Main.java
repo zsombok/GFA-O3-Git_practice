@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         greet("Zsombok Dávid");
-        Horoscope.future("Kos");
+        Horoscope.future("Kos", "Április");
     }
 
     private static void greet(String name) {
