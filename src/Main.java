@@ -1,12 +1,12 @@
 public class Main {
 
     public static void main(String[] args) {
-        greet();
+        greet("Zsombok Dávid");
         Horoscope.future("Kos");
     }
 
-    private static void greet() {
-        System.out.println("Greetings!");
+    private static void greet(String name) {
+        System.out.println(name);
     }
 
 }
