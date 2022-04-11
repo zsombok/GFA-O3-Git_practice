@@ -5,8 +5,8 @@ public class Main {
         Horoscope.future("Kos");
     }
 
-    private static void greet(String name, String hobby) {
-        System.out.printf("%s %s%n", name, hobby);
+    private static void greet(String name) {
+        System.out.println("Greetings for the " + name);
     }
 
 }
