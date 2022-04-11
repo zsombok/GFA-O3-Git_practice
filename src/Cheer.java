@@ -1,5 +1,5 @@
 public class Cheer {
-  public void cheer (){
-    System.out.println("GO O3! GO!");
+  public static void cheer (String group){
+    System.out.println("GO "+ group + "!GO!");
   }
 }
