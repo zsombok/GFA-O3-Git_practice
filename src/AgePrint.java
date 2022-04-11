@@ -1,6 +1,6 @@
 public class AgePrint {
 
-    public static void count(int age){
-        System.out.println(age);
+    public static void count(){
+        System.out.println("28");
     }
 }
